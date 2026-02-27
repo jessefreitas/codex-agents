@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-tools": {
+      "source": "inference-sh-9/skills",
+      "sourceType": "github",
+      "computedHash": "15d2ee25e4cd620e88227699d2c85a9ca873beaf4087db5efe0a44122e2e7c3b"
+    },
+    "brainstorming": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "computedHash": "5cafa1558b0b6bd4d4c71f23d5567b7fcbbcdb4b0a50b0c5f69a80a3cebaf9b8"
+    },
+    "codex-subagent": {
+      "source": "am-will/codex-skills",
+      "sourceType": "github",
+      "computedHash": "9d098c9a28dfa24ec841a39bfb4212dcb6063448105df5fcf4895c3f92c3a6e6"
+    },
+    "context7": {
+      "source": "am-will/codex-skills",
+      "sourceType": "github",
+      "computedHash": "7b283ddb83d3d017e8b4189b79ee368482095bd9a8b9deae4fbcc774bf05cc2e"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "516bd2154eb843a8240e43d5b285229129853114ad7075a5e141e1c08e408c84"
+    },
+    "openai-docs-skill": {
+      "source": "am-will/codex-skills",
+      "sourceType": "github",
+      "computedHash": "b34e42096e642c8c162baff4f3ea138bff60d9399c1fa127dca00c8937b79321"
+    },
+    "parallel-task-spark": {
+      "source": "am-will/codex-skills",
+      "sourceType": "github",
+      "computedHash": "1254203a69de917457410744415a2b932639dd200cb04e029d0347a2e4942745"
+    },
+    "plan-harder": {
+      "source": "am-will/codex-skills",
+      "sourceType": "github",
+      "computedHash": "20d0cc9c47b5d46c76808e34f847d8a78f8e5e84d697248b5019f04ce2498116"
+    },
+    "python-sdk": {
+      "source": "inference-sh-9/skills",
+      "sourceType": "github",
+      "computedHash": "315722e41afc6dad869103e22d00e8e4759650c351f79145591d899dfdd137fc"
+    },
+    "read-github": {
+      "source": "am-will/codex-skills",
+      "sourceType": "github",
+      "computedHash": "fcc7d19c32836245339663135937ec3a330e5fbc7b264ccd5c954b79f72e66ab"
+    },
+    "super-swarm-spark": {
+      "source": "am-will/codex-skills",
+      "sourceType": "github",
+      "computedHash": "b049a526867ece5e54210e81389ea7a6385f5f75c0a3968afa5072f6119f2c76"
+    },
+    "vercel-react-best-practices": {
+      "source": "am-will/codex-skills",
+      "sourceType": "github",
+      "computedHash": "0152317e3e11aaec2fd3675d7f0f88bff9b0388be78cf482a7e0657dc7d70239"
+    }
+  }
+}
