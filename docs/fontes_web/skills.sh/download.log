@@ -1,0 +1,5 @@
+﻿OK https://skills.sh -> home.html
+OK https://skills.sh/docs -> docs.html
+FAIL https://skills.sh/audits -> Falha na operação de descriptografia, consulte a exceção interna.
+FAIL https://skills.sh/robots.txt -> O servidor remoto retornou um erro: (404) Não Localizado.
+OK https://skills.sh/sitemap.xml -> sitemap.xml
